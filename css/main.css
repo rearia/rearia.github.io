@@ -823,9 +823,9 @@ header .logo a {
 	outline: 0;
 	border: none;
 	width: 191px;
-	height: 36px;
+	height: 38px;
 	background: url("../images/logo.png") no-repeat center;
-	background-size: 191px 36px;
+	background-size: 191px 38px;
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
@@ -902,6 +902,11 @@ header .social-links ul li a:focus {
 	header .logo {
 		left: 41px;
 		margin-top: 30px;
+	}
+	header .logo a{
+		width: 128px;
+		height: 26px;
+		background-size: 128px 26px;
 	}
 	header .social-links {
 		right: 41px;
