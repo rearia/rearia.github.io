@@ -1160,9 +1160,9 @@ header .social-links ul li a:focus {
 }
 @media only screen and (max-width:768px) {
 	#home .shadow-overlay {
-		background: -moz-linear-gradient(left, rgb(72, 181, 255) 0%, rgb(72, 181, 255) 20%,  rgba(72, 181, 255, 50) 100%);  /* FF3.6-15 */
-		background: -webkit-linear-gradient(left, rgb(72, 181, 255) 0%, rgb(0, 0, 0) 20%, rgba(72, 181, 255, 50) 100%);  /* Chrome10-25,Safari5.1-6 */
-		background: linear-gradient(to right, rgb(72, 181, 255) 0%, rgb(72, 181, 255) 20%, rgba(72, 181, 255, 50) 100%);  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		background: -moz-linear-gradient(left, rgb(83, 107, 224) 0%, rgb(83, 107, 224) 20%,  rgba(72, 181, 255, 50) 100%);  /* FF3.6-15 */
+		background: -webkit-linear-gradient(left, rgb(83, 107, 224) 0%, rgb(0, 0, 0) 20%, rgba(72, 181, 255, 50) 100%);  /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(to right, rgb(83, 107, 224) 0%, rgb(83, 107, 224) 20%, rgba(72, 181, 255, 50) 100%);  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#00000000', GradientType=1);  /* IE6-9 */
 	
 	}
